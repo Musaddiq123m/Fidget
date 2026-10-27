@@ -1,0 +1,7 @@
+# build output
+*.exe
+*.o
+
+# personal stats, written next to the exe at runtime
+typing_stats.txt
+cube_times.txt
